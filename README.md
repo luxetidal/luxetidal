@@ -1,94 +1,81 @@
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
-
-<h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me
+<!-- Greeting -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" /> 
+  Hey there, I'm <strong>Luxetidal</strong>!
 </h1>
-​
-<div>
-  <p>
-    I'm a passionate Full Stack Developer. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
-  </p>
-  
-  <img alt='coding' align='right' height='300' src="https://github.com/luxetidal/luxetidal/blob/main/assests/images/coding_gif.gif" />
 
-  <ul>
-  <li>💼 <strong>Current Role</strong>: Full Stack Developer with a proven track record of delivering high-quality solutions.</li>
-  <li>👨‍💼 <strong>Team Leadership</strong>: Leading a talented team of developers, fostering collaboration and innovation.</li>
-  <li>🌱 <strong>Currently Learning</strong>: Advanced modern platform development and machine learning (AI).</li>
-  <li>💬 <strong>Expertise</strong>: Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
-  <li>📫 <strong>Contact</strong>: <a href="mailto:luxetidal@gmail.com">Gmail</a></li>
-  <li>😄 <strong>Pronouns</strong>: he/him</li>
-  <li>⚡ <strong>Fun Fact</strong>: Traveled to over 40 countries and enjoy hiking.</li>
-</ul>
+<p align="center">
+  🚀 Passionate <strong>Full Stack Developer</strong> who loves building innovative, scalable solutions and leading teams toward creative excellence.  
+</p>
 
-</div>
+## 🌟 About Me
 
+<img align="right" alt="coding" width="300" src="https://github.com/luxetidal/luxetidal/blob/main/assests/images/coding_gif.gif"/>
 
-![divider](https://github.com/luxetidal/luxetidal/blob/main/assests/images/divider.png)
+- 💼 **Current Role**: Full Stack Developer delivering high-quality web solutions.  
+- 🤝 **Leadership**: Managing a skilled developer team with a focus on collaboration and innovation.  
+- 🚀 **Learning**: Exploring advanced platform architecture & machine learning (AI).  
+- 🌐 **Expertise**: Project Management, Full-stack Development (React, TypeScript, Next.js, Supabase, etc.).  
+- 📫 **Contact**: [luxetidal@gmail.com](mailto:luxetidal@gmail.com)  
+- 😄 **Pronouns**: he/him  
+- ⚡ **Fun Fact**: I’ve traveled to over 10 countries and enjoy hiking.  
 
-<h1>
-  <img src="https://github.com/luxetidal/luxetidal/blob/main/assests/images/code_gif.gif" width ="30"> Skills
-</h1>
-<div align=''>
+## 🛠 Skills
+
 <table>
   <thead>
     <tr>
       <th>Languages</th>
-      <th>Frameworks and Libraries</th>
+      <th>Frameworks & Libraries</th>
       <th>Databases</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <p align="center">
-            <img height='132' alt='language' src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
-        </p>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,cs,php,py,rust,ruby,solidity&perline=5" height="120" alt="languages" />
       </td>
-      <td>
-        <p align="center">
-          <img height='132' alt='framework' src="https://skillicons.dev/icons?i=nestjs,express,laravel,django,react,vue,nextjs,nuxtjs,redux,graphql&perline=5" />
-        </p>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,nestjs,express,laravel,django,redux,graphql&perline=5" height="120" alt="frameworks" />
       </td>
-      <td>
-        <p align="center">
-          <img height='132' alt='database' src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=2" />
-        </p>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase&perline=3" height="120" alt="databases" />
       </td>
     </tr>
   </tbody>
 </table>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=luxetidal&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" height="150"/>
+
+<!-- GitHub Stats Cards -->
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=luxetidal&show_icons=true&theme=default&hide_border=false" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxetidal&layout=compact&theme=default&hide_border=false" height="165" alt="Top Languages"/>
+
 </div>
 
-![divider](https://github.com/luxetidal/luxetidal/blob/main/assests/images/divider.png)
+## 🐍 Contribution Animation
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
-</h1>
+<p align="center">
+  <img src="https://github.com/luxetidal/luxetidal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-<div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=luxetidal&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@Hitoshi Sasaki's trophy stats"/>
+## 🤝 Connect & Follow
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=luxetidal&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph"> -->
-</div>
-
-<div align='center' style="display: flex;">
-  <img align='left' height='190' alt='total' src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxetidal&show_icons=true&theme=radical)" />
-    
-  <img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxetidal&layout=compact&theme=gotham" />
-</div>
-
-![divider_header](https://github.com/luxetidal/luxetidal/blob/main/assests/images/divider_header.png)
-
-<div align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
-</div>
-
-<div align='center'>
-  <a href='https://github.com/luxetidal' >
-    <img src='https://img.shields.io/github/followers/luxetidal.svg?style=flat&logo=castro&label=Follow' height='40' />
+<p align="center">
+  <a href="https://github.com/luxetidal">
+    <img src="https://img.shields.io/github/followers/luxetidal?label=Follow&style=social" height="30" />
   </a>
-  <a href='https://github.com/luxetidal?tab=repositories' >
-    <img src='https://img.shields.io/github/stars/luxetidal.svg?style=flat&logo=starship&logoColor=yellow&label=Star' height='40' />
+  <a href="https://github.com/luxetidal?tab=repositories">
+    <img src="https://img.shields.io/github/stars/luxetidal?label=Star&style=social" height="30" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&width=700&lines=Don't+forget+to+star+the+repositories+you+like!;Follow+me+for+more+cool+projects!" alt="Typing SVG" />
+</p>
