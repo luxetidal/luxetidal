@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake Animation
 
 on:
   schedule: # Runs every 12 hours
@@ -13,7 +13,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake SVG
