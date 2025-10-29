@@ -1,0 +1,34 @@
+name: YOLO Merge Detector
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  yolo-check:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if PR was merged without review
+        id: check
+        run: |
+          REVIEWS=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/reviews --jq 'length')
+          if [ "$REVIEWS" -eq 0 ]; then
+            echo "yolo=true" >> $GITHUB_OUTPUT
+          else
+            echo "yolo=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Add YOLO Label
+        if: steps.check.outputs.yolo == 'true'
+        run: |
+          gh api \
+            -X POST \
+            repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels \
+            -f labels='["YOLO Merge 🚀"]'
+
+      - name: Comment YOLO Message
+        if: steps.check.outputs.yolo == 'true'
+        run: |
+          gh pr comment ${{ github.event.pull_request.number }} \
+            --body "🟡 YOLO Merge detected — merged without review!"
